@@ -24,7 +24,7 @@ I have a strong foundation in digital design and Verilog, with hands-on experien
 ## 📁 Featured Work
 
 - **RISC-V Processor Design**  
-  [RISC-V Processor Design](risc-v.v) 
+  [RISC-V Processor Design](risc-v.v) (factorial_program_risc.png)
 
 - **Synchronous FIFO Module**  
   Verilog code + simulation + architecture diagram
