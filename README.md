@@ -36,7 +36,7 @@ I have a strong foundation in digital design and Verilog, with hands-on experien
   [Block Diagram](8x256_RAM.pdf)
 
 - **Vending Machine FSM Diagrams**  
-   [Dual port RAM Module](Vending machine.pdf)
+   [Dual port RAM Module](Vending_machine.pdf)
 
 - **TENG Technical Paper Summary**  
   [View Project](https://www.linkedin.com/in/piyush-sahdev/details/projects/)
