@@ -33,13 +33,13 @@ I have a strong foundation in digital design and Verilog, with hands-on experien
   Verilog code + waveform + block diagram
 
 - **Vending Machine FSM Diagrams**  
-  Complex state diagrams (no code yet)
+   [State Diagram Designs](Vending machine.pdf) 
 
 - **TENG Technical Paper Summary**  
-  [View Project](https://your-link-here.com)
+  [View Project](https://www.linkedin.com/in/piyush-sahdev/details/projects/)
 
 - **Hemoglobin Estimation Project**  
-  [View Project](https://your-link-here.com)
+  [View Project](https://www.linkedin.com/in/piyush-sahdev/details/projects/)
 
 ## 📫 Contact
 Feel free to reach out via LinkedIn DM with any questions or feedback.  
