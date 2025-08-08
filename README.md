@@ -24,16 +24,19 @@ I have a strong foundation in digital design and Verilog, with hands-on experien
 ## 📁 Featured Work
 
 - **RISC-V Processor Design**  
-  [RISC-V Processor Design](risc-v.v) (factorial_program_risc.png)
+  [RISC-V Processor Design](risc-v.v)
+  [RISC-V Processor Design](factorial_program_risc.png)
 
 - **Synchronous FIFO Module**  
-  Verilog code + simulation + architecture diagram
+  [Synchronous FIFO Module](SYN_FIFO.v)
+  [Synchronous FIFO Module](SYN_FIFO.pdf)
 
 - **RAM Design**  
-  Verilog code + waveform + block diagram
+  [Dual port RAM Module](8x256_RAM.v)
+  [Dual port RAM Module](8x256_RAM.pdf)
 
 - **Vending Machine FSM Diagrams**  
-   [State Diagram Designs](Vending machine.pdf) 
+   [State Diagram Designs](Vending machine.pdf)
 
 - **TENG Technical Paper Summary**  
   [View Project](https://www.linkedin.com/in/piyush-sahdev/details/projects/)
